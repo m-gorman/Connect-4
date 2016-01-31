@@ -1,7 +1,4 @@
-// COMP30023 Project 2
-// Michael Gorman
-// mgorman
-// 641487
+
 // output file
 #define LOG_FILE_NAME "log.txt"
 
