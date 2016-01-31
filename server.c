@@ -1,8 +1,3 @@
-// COMP30023 Project 2
-// Michael Gorman
-// mgorman
-// 641487
-
 // server implementation to handle client connections for connect4 game
 // based on server code on LMS
 
