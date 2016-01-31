@@ -1,8 +1,3 @@
-// COMP30023 Project 2
-// Michael Gorman
-// mgorman
-// 641487
-
 // function to handle an individual client's connect 4 game
 // code based on connect4 implementation provided on LMS
 
