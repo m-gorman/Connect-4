@@ -1,5 +1,4 @@
 // server implementation to handle client connections for connect4 game
-// based on server code on LMS
 
 #include <stdio.h>
 #include <stdlib.h>
