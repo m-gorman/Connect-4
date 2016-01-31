@@ -1,5 +1,4 @@
-# mgorman - 641487
-# Makefile for project 2
+# Makefile
 
 
 ## CC  = Compiler.
