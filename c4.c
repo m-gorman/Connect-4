@@ -1,10 +1,4 @@
-// COMP30023 Project 2
-// Michael Gorman
-// mgorman
-// 641487
-
 // c4 game functions for server
-// Based on the connect 4 code provided on the LMS
 
 #include <stdio.h>
 #include <stdlib.h>
