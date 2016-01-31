@@ -1,7 +1,3 @@
-// COMP30023 Project 2
-// Michael Gorman
-// mgorman
-// 641487
 
 // client program for connect4 game
 // based on client code on the LMS
