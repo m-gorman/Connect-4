@@ -1,9 +1,4 @@
-// COMP30023 Project 2
-// Michael Gorman
-// mgorman
-// 641487
 
-// c4 functions for the game server
 // based on c4 code provided on the LMS
 
 	/* number of columns in the game */
